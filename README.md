@@ -11,6 +11,9 @@ If you live in New England, like I do, you know that the weather can be quite un
 
 ## User Interface
 So far I've designed a UI that dynamically scales to all screen sizes and resolutions in portrait mode. Further work has to be done to display the information in landscape mode.
+
+<br/>
+
 ![GitHub Logo](images/screen-sizes.png?raw=true)
 
 <br/>
